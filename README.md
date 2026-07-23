@@ -11,6 +11,9 @@ This repository contains a collection of Tableau workbooks developed for data vi
 | `74513_PBMC_PR01_812.twbx` | Practical dashboard project featuring multiple charts and interactive visualizations. |
 | `74513_MCPB_EJ013P_812.twbx` | Exercises focused on Level of Detail (LOD) expressions using **FIXED**, **INCLUDE**, and **EXCLUDE** calculations. |
 | `74513_MCPB_PR02_812.twbx` | Dashboard project integrating multiple visualizations for business data analysis. |
+| `74513_PBMC_EXP02_812.twbx` | Exploratory Tableau workbook containing a series of visualization exercises covering fundamental analytical techniques and chart design. |
+| `Estratégico_75021_74513_HLLB_PBMC_X3P_812.twbx` | Strategic business intelligence dashboard presenting high-level KPIs, sales performance, category and product contribution, store profitability, and overall business trends. |
+| `Táctico_75021_74513_HLLB_PBMC_X3P_812.twbx` | Tactical business dashboard focused on operational metrics, including top and bottom products, average ticket value, transaction volume, and peak business hours. |
 
 ## Topics covered
 
